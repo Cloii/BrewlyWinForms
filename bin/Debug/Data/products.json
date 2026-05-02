@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "Number": 1,
+    "Name": "LATTE",
+    "Price": 120.0,
+    "Category": "coffee",
+    "ImageUrl": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?w=300&h=200&fit=crop"
+  },
+  {
+    "Id": 2,
+    "Number": 2,
+    "Name": "CAPPUCCINO",
+    "Price": 120.0,
+    "Category": "coffee",
+    "ImageUrl": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=300&h=200&fit=crop"
+  },
+  {
+    "Id": 3,
+    "Number": 3,
+    "Name": "ESPRESSO",
+    "Price": 80.0,
+    "Category": "coffee",
+    "ImageUrl": "https://images.unsplash.com/photo-1579992357154-faf4bde95b3d?w=300&h=200&fit=crop"
+  },
+  {
+    "Id": 4,
+    "Number": 4,
+    "Name": "MOCHA",
+    "Price": 140.0,
+    "Category": "coffee",
+    "ImageUrl": "https://plus.unsplash.com/premium_photo-1668970851336-6c81cc888ba7?w=300&h=200&fit=crop"
+  },
+  {
+    "Id": 5,
+    "Number": 5,
+    "Name": "AMERICANO",
+    "Price": 90.0,
+    "Category": "coffee",
+    "ImageUrl": "https://images.unsplash.com/photo-1551030173-122aabc4489c?w=300&h=200&fit=crop"
+  },
+  {
+    "Id": 6,
+    "Number": 6,
+    "Name": "FLAT WHITE",
+    "Price": 125.0,
+    "Category": "coffee",
+    "ImageUrl": "https://images.unsplash.com/photo-1732030564789-bb6f12144091?w=300&h=200&fit=crop"
+  },
+  {
+    "Id": 7,
+    "Number": 7,
+    "Name": "COLD BREW",
+    "Price": 110.0,
+    "Category": "coffee",
+    "ImageUrl": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?w=300&h=200&fit=crop"
+  },
+  {
+    "Id": 8,
+    "Number": 8,
+    "Name": "MACCHIATO",
+    "Price": 125.0,
+    "Category": "coffee",
+    "ImageUrl": "https://images.unsplash.com/photo-1557006021-b85faa2bc5e2?w=300&h=200&fit=crop"
+  },
+  {
+    "Id": 10,
+    "Number": 9,
+    "Name": "TEA",
+    "Price": 80.0,
+    "Category": "tea",
+    "ImageUrl": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=300&h=200&fit=crop"
+  }
+]

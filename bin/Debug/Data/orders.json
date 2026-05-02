@@ -1,0 +1,92 @@
+[
+  {
+    "OrderNumber": 1,
+    "Date": "2026-03-05T12:15:16.6784106+08:00",
+    "Customer": "migo",
+    "Table": "12",
+    "PaymentMethod": "Cash",
+    "Items": [
+      {
+        "Name": "LATTE",
+        "Qty": 1,
+        "Price": 130.0,
+        "Subtotal": 130.0
+      },
+      {
+        "Name": "CAPPUCCINO",
+        "Qty": 1,
+        "Price": 120.0,
+        "Subtotal": 120.0
+      },
+      {
+        "Name": "ESPRESSO",
+        "Qty": 1,
+        "Price": 80.0,
+        "Subtotal": 80.0
+      },
+      {
+        "Name": "MOCHA",
+        "Qty": 1,
+        "Price": 140.0,
+        "Subtotal": 140.0
+      }
+    ],
+    "Total": 470.0,
+    "Payment": 5000.0,
+    "Change": 4530.0
+  },
+  {
+    "OrderNumber": 2,
+    "Date": "2026-03-05T13:31:29.8917295+08:00",
+    "Customer": "gwapo",
+    "Table": "23",
+    "PaymentMethod": "GCash",
+    "Items": [
+      {
+        "Name": "LATTE",
+        "Qty": 1,
+        "Price": 130.0,
+        "Subtotal": 130.0
+      },
+      {
+        "Name": "CAPPUCCINO",
+        "Qty": 1,
+        "Price": 120.0,
+        "Subtotal": 120.0
+      },
+      {
+        "Name": "ESPRESSO",
+        "Qty": 1,
+        "Price": 80.0,
+        "Subtotal": 80.0
+      }
+    ],
+    "Total": 330.0,
+    "Payment": 400.0,
+    "Change": 70.0
+  },
+  {
+    "OrderNumber": 3,
+    "Date": "2026-03-05T13:57:03.5116882+08:00",
+    "Customer": "213",
+    "Table": "2",
+    "PaymentMethod": "Cash",
+    "Items": [
+      {
+        "Name": "LATTE",
+        "Qty": 1,
+        "Price": 130.0,
+        "Subtotal": 130.0
+      },
+      {
+        "Name": "CAPPUCCINO",
+        "Qty": 1,
+        "Price": 120.0,
+        "Subtotal": 120.0
+      }
+    ],
+    "Total": 250.0,
+    "Payment": 333.0,
+    "Change": 83.0
+  }
+]

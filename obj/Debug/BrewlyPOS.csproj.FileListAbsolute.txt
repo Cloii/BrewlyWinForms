@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\BrewlyWinForms\obj\Debug\BrewlyPOS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BrewlyWinForms\obj\Debug\BrewlyPOS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BrewlyWinForms\bin\Debug\BrewlyPOS.exe
+C:\Users\user\Desktop\BrewlyWinForms\bin\Debug\BrewlyPOS.pdb
+C:\Users\user\Desktop\BrewlyWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\BrewlyWinForms\obj\Debug\BrewlyPOS.csproj.Up2Date
+C:\Users\user\Desktop\BrewlyWinForms\obj\Debug\BrewlyPOS.exe
+C:\Users\user\Desktop\BrewlyWinForms\obj\Debug\BrewlyPOS.pdb
+C:\Users\user\Desktop\BrewlyWinForms\obj\Debug\BrewlyPOS.Forms.MainForm.resources
+C:\Users\user\Desktop\BrewlyWinForms\obj\Debug\BrewlyPOS.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BrewlyWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\BrewlyWinForms\bin\Debug\Forms\LOGO.ico
+C:\Users\user\Desktop\BrewlyWinForms\obj\Debug\BrewlyPOS.Forms.InventoryForm.resources

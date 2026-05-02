@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|c:\\users\\user\\desktop\\brewlywinforms\\forms\\inventoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|solutionrelative:forms\\inventoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|c:\\users\\user\\desktop\\brewlywinforms\\forms\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|solutionrelative:forms\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|c:\\users\\user\\desktop\\brewlywinforms\\forms\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|solutionrelative:forms\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|c:\\users\\user\\desktop\\brewlywinforms\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|C:\\Users\\user\\Desktop\\BrewlyWinForms\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|C:\\Users\\user\\Desktop\\BrewlyWinForms\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|solutionrelative:forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|C:\\Users\\user\\Desktop\\BrewlyWinForms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|BrewlyPOS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "Forms\\InventoryForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\InventoryForm.cs",
+              "RelativeToolTip": "Forms\\InventoryForm.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAQwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T06:39:18.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "Forms\\InventoryForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\InventoryForm.cs [Design]",
+              "RelativeToolTip": "Forms\\InventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T06:39:12.702Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\InventoryForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\InventoryForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\InventoryForm.Designer.cs",
+              "RelativeToolTip": "Forms\\InventoryForm.Designer.cs",
+              "ViewState": "AgIAAMQBAAAAAAAAAAAQwOQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T06:38:09.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:18:29.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Forms\\MainForm.cs",
+              "ViewState": "AgIAALwBAAAAAAAAAADwv+EBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:41:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:34:04.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BrewlyWinForms\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:31:01.064Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
